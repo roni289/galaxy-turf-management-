@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Galaxy Sports Manager",
+  "description": "Professional management dashboard for Galaxy Sports (Narayanganj), featuring 90-minute slot booking and dynamic pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
